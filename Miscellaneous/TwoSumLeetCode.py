@@ -1,3 +1,5 @@
+# Uncomplited
+
 def twoSum(nums,target):
     for i in range(len(nums)):
         k =i+1
